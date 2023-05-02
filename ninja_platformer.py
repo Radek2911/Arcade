@@ -1,5 +1,4 @@
-##support@youngwonks.com
-## SEnd one line email with name project and teacher name
+
 ## June 20th, 6:00 pm Warsaw Time, Saturday
 import pygame
 
